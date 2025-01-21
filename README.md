@@ -23,7 +23,7 @@ Documents are stored in "trectext" format.
 
 DOCNO Format: "ROUND-\<round_number\>-\<topic_id\>_\<competition\>-\<author_id\>"
 
-Competition B is signed as '0'; competition D is signed as '1'.
+Competition R is signed as '0'; competition D is signed as '1'.
 
 ## Queries
 
